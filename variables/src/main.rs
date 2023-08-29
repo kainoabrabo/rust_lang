@@ -145,6 +145,12 @@ fn main() {
     }
     println!("(range) LIFTOFF");
 
+    // End of chapter:
+    // try building programs to do the following:
+    // Convert temperatures between Fahrenheit and Celsius.
+    // Generate the nth Fibonacci number.
+    // Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song.
+
     // Convert F to C
     // (F - 32) * 5/9
     let deg_to_cel = conv_f_to_c(100);

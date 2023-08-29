@@ -1,0 +1,1 @@
+/Users/kaibrabo/Documents/Development/rust/minigrep/target/debug/minigrep: /Users/kaibrabo/Documents/Development/rust/minigrep/src/lib.rs /Users/kaibrabo/Documents/Development/rust/minigrep/src/main.rs
